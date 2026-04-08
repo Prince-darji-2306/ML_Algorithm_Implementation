@@ -79,4 +79,4 @@ We don't just train; we measure quality:
 
 ## 👨‍💻 Usage
 
-Simply open any `.ipynb` file in a Jupyter environment (VS Code, JupyterLab, etc.) and run the cells sequentially. Each notebook is self-contained with its own data generation logic.
+Simply open any `.` file in a Jupyter environment (VS Code, JupyterLab, etc.) and run the cells sequentially. Each notebook is self-contained with its own data generation logic.
